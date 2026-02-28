@@ -1,0 +1,47 @@
+﻿var,label,from_level,to_code,to_label,reference_level,missing
+geo_ruca,Rural-Urban Commuting Area,rural,0,Rural,,0
+geo_ruca,Rural-Urban Commuting Area,urban,1,Urban,Urban,0
+nci_center,Center Type,no_nci,0,Non-NCI,Non-NCI,0
+nci_center,Center Type,yes_nci,1,NCI,,0
+gender,Gender,male,0,Male,Male,0
+gender,Gender,female,1,Female,,0
+gender,Gender,prefer_not_to_answer,NA,NA,,1
+participant_type,Participant Type,gbm_patient,1,GBM Patient,GBM Patient,0
+participant_type,Participant Type,current_caregiver,2,Current Caregiver Proxy,,0
+participant_type,Participant Type,bereaved_caregiver,3,Bereaved Caregiver Proxy,,0
+race_ethnicity,Race Ethnicity,White,0,White,,0
+race_ethnicity,Race Ethnicity,NonWhite,1,Non-White,Non-White,0
+agedx,Age at Diagnosis,<40,1,<40,,0
+agedx,Age at Diagnosis,40–64,2,40-64,40-64,0
+agedx,Age at Diagnosis,65+,3,>=65,,0
+education,Educational Attainment,High school degree or less,1,High school degree or less,High school degree or less,0
+education,Educational Attainment,Some college or associate degree,2,Some college or associate degree,,0
+education,Educational Attainment,Bachelor degree or higher,3,Bachelor degree or higher,,0
+education,Educational Attainment,Prefer not to answer,NA,NA,,1
+insurance,Insurance Type,Commercial Only,0,Commercial insurance,Commercial insurance,0
+insurance,Insurance Type,Medicare,1,Medicare,,0
+insurance,Insurance Type,Public Other,2,Other public insurance,,0
+insurance,Insurance Type,No Insurance,NA,Uninsured,,1
+patient_cog_recall_risk,Self-reported cognitive recall concern,No,0,No Risk,,0
+patient_cog_recall_risk,Self-reported cognitive recall concern,Yes,1,Yes Risk,,0
+patient_cog_recall_risk,Self-reported cognitive recall concern,Prefer not to answer,NA,NA,,1
+tumor_testing_informed_raw,Tumor Testing Informed,Yes,1,Yes,,0
+tumor_testing_informed_raw,Tumor Testing Informed,No,0,No,,0
+tumor_testing_informed_raw,Tumor Testing Informed,Not sure,2,Not sure,,0
+tumor_storage_informed_raw,Tumor Tissue Storage Informed,Yes,1,Yes,,0
+tumor_storage_informed_raw,Tumor Tissue Storage Informed,No,0,No,,0
+tumor_storage_informed_raw,Tumor Tissue Storage Informed,Not sure,2,Not sure,,0
+tumor_mutations_explained,Tumor Mutations Explained,Yes,1,Explained,,0
+tumor_mutations_explained,Tumor Mutations Explained,No,0,Not explained,,0
+soc_recommended_raw,Standard-of-Care Recommended,Yes,1,Yes,,0
+soc_recommended_raw,Standard-of-Care Recommended,No,0,No,,0
+soc_recommended_raw,Standard-of-Care Recommended,Not sure,2,Not sure,,0
+second_opinion_discussion_raw,Second Opinion Discussion,Yes,1,Yes,,0
+second_opinion_discussion_raw,Second Opinion Discussion,No,0,No,,0
+second_opinion_discussion_raw,Second Opinion Discussion,Not sure,2,Not sure,,0
+clinical_trial_offer_raw,Clinical Trial Offer,Yes,1,Yes,,0
+clinical_trial_offer_raw,Clinical Trial Offer,No,0,No,,0
+clinical_trial_offer_raw,Clinical Trial Offer,Not sure,2,Not sure,,0
+ttf_discussion_raw,Tumor Treating Fields Discussion,Yes,1,Yes,,0
+ttf_discussion_raw,Tumor Treating Fields Discussion,No,0,No,,0
+ttf_discussion_raw,Tumor Treating Fields Discussion,Not sure,2,Not sure,,0
